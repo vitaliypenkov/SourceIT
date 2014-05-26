@@ -1,2 +1,2 @@
 //here goes description of what we are going to do
-That is the initial version in branch sourceit
+That is the initial version in Master

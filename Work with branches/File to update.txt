@@ -1,4 +1,2 @@
-//here goes description of what we are going to do
 That is the initial version in Master
 
-//The next step we need to discuss
